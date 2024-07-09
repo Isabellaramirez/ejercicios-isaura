@@ -1,3 +1,4 @@
+menu= '''
 menu
 1 imc (indice de masa corporal)
 2 porcentaje de grasa corporal
@@ -34,3 +35,9 @@ if op is 3:
         valor_genero=5
     tasa_metabolica=(10*peso)+(6.25*estatura) - (5*edad) + valor_genero
     print("su tasa metabolica basal es:", tasa_metabolica)
+    
+    
+    
+    
+    
+    
